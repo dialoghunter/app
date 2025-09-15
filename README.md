@@ -1,6 +1,7 @@
 # DialogHunter
 
 RU: Программа для мониторинга Telegram чатов и групп по ключевым словам и регулярным выражениям для автоматического получения горячих клиентов.
+
 EN: Program for monitoring Telegram chats and groups by keywords and regular expressions to automatically get hot clients.
 
 # Official site: [dialoghunter.app](https://dialoghunter.app)
